@@ -1,6 +1,6 @@
 .pinguino {
     --pinguino-barriga: gray;
-    --pinguino-pico: yellow;
+    --pinguino-pico: blue;
     position: relative;
     margin: auto;
     display: block;
